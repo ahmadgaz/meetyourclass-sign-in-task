@@ -97,7 +97,7 @@ export default function SignInForm() {
                         )}
                     />
                 </section>
-                <Button type="submit">Submit</Button>
+                <Button type="submit">Sign In</Button>
             </form>
         </Form>
     );
